@@ -30,3 +30,4 @@ make
 ```shell
 make install
 ```
+## [see more](https://www.jianshu.com/p/cac086219a58)
