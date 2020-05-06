@@ -5,6 +5,12 @@
 ```shell
 proxy git clone --recurse-submodules git@github.com:CNKCQ/ffmpeg-debug.git
 ```
+## dependency
+
+```shell
+brew install sdl2
+```
+
 ## config
 
 ```shell
